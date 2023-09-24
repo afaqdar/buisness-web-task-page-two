@@ -398,10 +398,32 @@ color: white;
         color: orange;
         font-family: 'Grandstander', cursive;
     }
+    .header{
+        overflow: hidden;
+    }
+    .main-content{
+        overflow: hidden;
+    }
+    .footer{
+        overflow: hidden;
+
+    }
+
 
 }
 
 @media (min-width:992px) and (max-width:1199.98px) {
+    
+    .header{
+        overflow: hidden;
+    }
+    .main-content{
+        overflow: hidden;
+    }
+    .footer{
+        overflow: hidden;
+
+    }
     
     .navbar-nav a.right-icons {
         text-decoration: none;
@@ -455,6 +477,17 @@ color: white;
 }
 
 @media(min-width:768px)and (max-width:991.98px) {
+    
+    .header{
+        overflow: hidden;
+    }
+    .main-content{
+        overflow: hidden;
+    }
+    .footer{
+        overflow: hidden;
+
+    }
     .navbar-nav a.right-icons {
         text-decoration: none;
         color: black;
@@ -533,6 +566,17 @@ color: white;
 }
 
 @media(min-width:576px)and (max-width:767.98px) {
+    
+    .header{
+        overflow: hidden;
+    }
+    .main-content{
+        overflow: hidden;
+    }
+    .footer{
+        overflow: hidden;
+
+    }
     .navbar img {
         height: 60px;
         width: 60px;
@@ -605,6 +649,17 @@ color: white;
 }
 
 @media (max-width:575.98px) {
+    
+    .header{
+        overflow: hidden;
+    }
+    .main-content{
+        overflow: hidden;
+    }
+    .footer{
+        overflow: hidden;
+
+    }
     .navbar img {
         height: 60px;
         width: 60px;
