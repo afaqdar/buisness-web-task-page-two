@@ -822,6 +822,7 @@ color: white;
     top: 170px;
     left:430px;
     list-style-type: none;
+    padding: 0;
 }
 .second-last-footer h3.contact {
     position: unset;
@@ -847,6 +848,7 @@ color: white;
     color: orange;
     font-family: 'Grandstander', cursive;
 }
+
 button, input, optgroup, select, textarea {
     overflow: hidden;
     margin: 0;
@@ -860,6 +862,7 @@ button, input, optgroup, select, textarea {
 .last-footer .col ul {
     list-style-type: none;
     display: block;
+    padding: 0;
     align-items: center;
 }
 }
